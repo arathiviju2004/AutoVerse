@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='customerstyles.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h2>SIGN UP</h2>
+        <div class="form-container">
+            {% with messages = get_flashed_messages(with_categories=True) %}
+        {% if messages %}
+            <ul>
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+        <form action="/signup" method="POST" class="signup-form">
+            <input type="text" name="full_name" placeholder="Full Name" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="text" name="contact_number" placeholder="Contact Number" required>
+            <input type="text" name="emergency_number" placeholder="Emergency Number" required>
+            <input type="password" name="password" placeholder="Password" required>
+            <input type="password" name="confirm_password" placeholder="Confirm Password" required>
+            <input type="submit" value="Sign Up">
+        </form>
+
+        <div class="login-link">
+            <p>Already have an account? <a href="javascript:void(0);" onclick="redirectToLogin()">Log In</a></p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function redirectToLogin() {
+            window.location.href = "/login";  // Adjust this path if necessary
+        }
+    </script>
+    
+</body>
+</html>

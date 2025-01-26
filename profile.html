@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f6f6f6;
+            margin: 0;
+        }
+
+        .card {
+            display: flex;
+            width: 80%;
+            max-width: 1200px;
+            height: auto;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-left {
+            background-color: #FFD600;
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            padding: 20px;
+        }
+
+        /* .card-left img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: #FFD600;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        } */
+        .card-left {
+           
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            padding: 20px;
+        }
+
+
+        .card-right {
+            background-color: #fff;
+            padding: 40px;
+            flex: 2;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+
+        .card-right h1 {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 12px;
+        }
+
+        .card-right p {
+            font-size: 16px;
+            color: gray;
+            margin-bottom: 10px;
+        }
+
+        .card-right .details {
+            margin-bottom: 30px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-right .details p {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 8px;
+        }
+
+        .card-right .earnings, .card-right .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+        }
+
+        .card-right .earnings div, .card-right .stats div {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border: 2px solid #333;
+            border-radius: 10px;
+            width: 30%;
+            font-weight: bold;
+            color: #333;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-right .earnings div span, .card-right .stats div span {
+            display: block;
+            font-size: 24px;
+            color: #000;
+        }
+
+        .card-right .team {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .card-right .team img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="card-left">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZLNK3yelNP82yGqsxBqLG9qqdy9g87R9Nw&s" alt="Vehicle Image">
+
+        </div>
+        <div class="card-right">
+            <h1>John Doe</h1>
+            <p>Professional Driver</p>
+            <div class="details">
+                <p><strong>Vehicle No:</strong> XYZ 1234</p>
+                <p><strong>Contact:</strong> 123-456-7890</p>
+               
+                <p><strong>Feedback:</strong> 4.5 - Great driver, very punctual.</p>
+                <p><strong>Last Maintained:</strong> 2024-12-15</p>
+                <p><strong>Next Service Date:</strong> 2025-02-15</p>
+            </div>
+
+            <!-- Earnings Section in Bold Boxes with Black Border -->
+            <div class="earnings">
+                <div>
+                    <span>Rs1500</span>
+                    Total Earnings
+                </div>
+                <div>
+                    <span>Rs200</span>
+                    Earnings Today
+                </div>
+                <div>
+                    <span>Rs1200</span>
+                    Earnings Last Week
+                </div>
+            </div>
+
+            <!-- Stats Section -->
+            
+            
+        </div>
+    </div>
+</body>
+</html>

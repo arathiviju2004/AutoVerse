@@ -1,0 +1,97 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:11:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:11:25] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Textual SQL expression '\n            INSERT INTO ...' should be explicitly declared as text('\n            INSERT INTO ...')
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:11:52] "[32mPOST /signup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:11:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:11:52] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:12:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:13:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:19:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:19:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:19:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:19:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:19:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:01] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:04] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Textual SQL expression '\n            INSERT INTO ...' should be explicitly declared as text('\n            INSERT INTO ...')
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:13] "[32mPOST /signup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:20:13] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app1.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:11] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:17] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Textual SQL expression '\n            INSERT INTO ...' should be explicitly declared as text('\n            INSERT INTO ...')
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:27] "[32mPOST /signup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jan/2025 05:52:27] "[36mGET /static/customerstyles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 942-243-147
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\autorikshaw\\taxi-master\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
