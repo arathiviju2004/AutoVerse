@@ -39,12 +39,12 @@ For Software:
    ```bash
    git clone https://github.com/your-username/your-project-name.git
 2. **Run the index file using open server**
-
-3.**Run the python file**
+3. **Run the python file**
    python app.py
 
 
-### Screenshota
+### Screenshots
+
    ![screencapture-file-C-Users-HP-Desktop-autorikshaw-taxi-master-index-html-2025-01-26-21_49_16](https://github.com/user-attachments/assets/96ccf8aa-9c6b-4d7d-8e75-71cd2f361cbc)
    -Home page
    
@@ -73,7 +73,11 @@ For Software:
 
 
 ## Diagram
-![Explain the first step inside this rectangle (1)](https://github.com/user-attachments/assets/df554fa8-a269-48ae-a51f-392444f64576)
+
+
+![Explain the first step inside this rectangle](https://github.com/user-attachments/assets/3599bac2-481d-4d45-a441-208e988aa818)
+
+
 
 *AutoVerse - A Smarter Way to Ride, A Smarter Way to Drive*  
 This workflow diagram outlines the seamless experience for both passengers and drivers using AutoVerse. Passengers scan a QR code to start their ride, triggering GPS tracking, with options for live location sharing and emergency alerts. Drivers, on the other hand, enjoy a comprehensive dashboard where they can calculate fares, track earnings, monitor fuel costs, and access maintenance records. With AutoVerse, both customers and drivers benefit from enhanced transparency, convenience, and security, ensuring a smarter, smoother ride.
