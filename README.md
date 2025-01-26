@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ec09721-1c75-4617-8b43-a4bb54c1e728)# AutoVerse 🎯
+## AutoVerse 🎯
 
 ## Basic Details
 
@@ -30,7 +30,7 @@ For Software:
 - **Languages used**: HTML, CSS, JavaScript, GPS Tracking
 - **Frameworks used**: Flask
 - **Libraries used**: html5-qrcode
-- **Tools used**: [Add any relevant tools]
+- **Tools used**: Visual Studio Code,Mysql,OpenstreetMap
 
 ### Installation
 
@@ -47,18 +47,25 @@ For Software:
 ### Screenshota
    ![screencapture-file-C-Users-HP-Desktop-autorikshaw-taxi-master-index-html-2025-01-26-21_49_16](https://github.com/user-attachments/assets/96ccf8aa-9c6b-4d7d-8e75-71cd2f361cbc)
    -Home page
+   
    ![screencapture-127-0-0-1-5000-2025-01-26-21_51_48](https://github.com/user-attachments/assets/2cb5672c-add5-4ca1-8b4a-3dc511c5fbe1)
    -Sign Up Page
+   
    ![screencapture-127-0-0-1-5000-login-2025-01-26-21_55_24](https://github.com/user-attachments/assets/d23b2eb4-3573-4bf9-98a9-b6698470c687)
    -Log In Page
+   
    ![image](https://github.com/user-attachments/assets/e3a5dad7-5db3-47da-9553-446cd2f40165)
    -QR code scanning for initializing gps tracking
+   
    ![image](https://github.com/user-attachments/assets/85eeb431-1c1b-4f87-b977-48cd4e102230)
    -GPS Tracking
+   
    ![image](https://github.com/user-attachments/assets/119602fb-4d68-4b4e-95d3-e2dd930b4c8f)
    -Alert
+   
    ![image](https://github.com/user-attachments/assets/06fa11a2-a649-4628-89d9-601d5280bcc9)
    -Rating
+   
    ![screencapture-file-C-Users-HP-Desktop-autorikshaw-taxi-master-profile-html-2025-01-26-22_11_58](https://github.com/user-attachments/assets/91695b78-811c-4072-a5ff-a2e569a17cb9)
    -Driver side:Earning Summary,Maintence record,Rating details,User Details 
 
@@ -66,6 +73,8 @@ For Software:
 
 
 ## Diagram
+![Explain the first step inside this rectangle (1)](https://github.com/user-attachments/assets/df554fa8-a269-48ae-a51f-392444f64576)
+
 *AutoVerse - A Smarter Way to Ride, A Smarter Way to Drive*  
 This workflow diagram outlines the seamless experience for both passengers and drivers using AutoVerse. Passengers scan a QR code to start their ride, triggering GPS tracking, with options for live location sharing and emergency alerts. Drivers, on the other hand, enjoy a comprehensive dashboard where they can calculate fares, track earnings, monitor fuel costs, and access maintenance records. With AutoVerse, both customers and drivers benefit from enhanced transparency, convenience, and security, ensuring a smarter, smoother ride.
 
