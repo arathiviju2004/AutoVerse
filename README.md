@@ -10,7 +10,7 @@
 - **Amala Ann Jerry** - College of Engineering, Chengannur
 
 ### Hosted Project Link
-[mention your hosted project link here]
+https://arathiviju2004.github.io/AutoVerse/
 
 ### Project Description
 AutoVerse is a cutting-edge digital platform designed to modernize the auto-rickshaw industry. By providing seamless fare calculation, real-time GPS tracking, and enhanced driver-customer interactions, AutoVerse brings transparency, convenience, and safety to every ride. The platform empowers drivers with features like earning summaries and customer feedback while offering riders a smarter, safer, and more efficient travel experience.
